@@ -1,3 +1,5 @@
 # support ideas
 
-来源于网络，仅供学习使用
+建议通过github项目申请key
+
+https://www.itmuch.com/other/how-to-use-idea-freely/
